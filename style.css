@@ -3,6 +3,7 @@ html {
          Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
        */
     font-size: 10px;
+    color: black;
   }
   
   body {
@@ -12,7 +13,7 @@ html {
     font-size: 1.6rem;
     line-height: 1.5;
     text-align: center;
-    color: #333;
+    color: purple;
     margin: 0;
   }
   
@@ -41,10 +42,10 @@ html {
   }
   
   #main {
-    margin: 30px 8px;
+
     padding: 15px;
     border-radius: 5px;
-    background: #eee;
+    background: teal;
   }
   
   @media (max-width: 460px) {
